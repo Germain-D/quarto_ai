@@ -2,3 +2,4 @@
 .venv
 .idea
 quarto/__pycache__
+venv
